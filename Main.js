@@ -42,14 +42,6 @@ class Main {
 
 
         this.mongo.getConn().on('serverDescriptionChanged', (data) => {
-            // console.log('serverDescriptionChanged ', data)
-
-            console.log('START OF DATA')
-
-            console.log(data)
-
-            console.log(`END OF DATA`)
-
             //? Is the member down?
 
             if (data.previousDescription.type == 'RSSecondary' && data.newDescription.type == 'Unknown') {
