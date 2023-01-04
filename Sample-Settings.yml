@@ -1,0 +1,9 @@
+Debug: false
+
+Pushover:
+  User: your user
+  Token: your token
+  Sound: Whatever sound you want
+
+Mongo:
+  URL: Your mongo URL 

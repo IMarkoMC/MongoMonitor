@@ -1,0 +1,6 @@
+# Dont push your settings
+Settings.yml
+
+# Not needed
+logs/
+node_modules/

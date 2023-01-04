@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "moment": "^2.29.1",
+    "mongodb": "^4.4.0",
+    "pushover-notification-client": "^0.0.6",
+    "request": "^2.88.2",
+    "yaml": "^1.10.2"
+  },
+  "name": "mongowatcher",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "scripts": {
+    "test": "node Main.js"
+  },
+  "keywords": [],
+  "author": "iMarkoMC",
+  "license": "ISC",
+  "description": ""
+}
