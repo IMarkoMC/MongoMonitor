@@ -5,7 +5,7 @@
     "mongodb": "^4.4.0",
     "pushover-notification-client": "^0.0.6",
     "request": "^2.88.2",
-    "yaml": "^1.10.2"
+    "yaml": "^2.2.2"
   },
   "name": "mongowatcher",
   "version": "1.0.0",
